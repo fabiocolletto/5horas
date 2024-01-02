@@ -1,0 +1,46 @@
+{
+  "header": {
+    "homepage": "Início",
+    "aboutUs": "Sobre Nós",
+    "services": "Serviços Marítimos",
+    "contact": "Contato",
+    "news": "Notícias Marítimas",
+    "darkMode": "Modo Escuro",
+    "logoAlt": "Logotipo da Gunderson Marine"
+  },
+  "mainCover": {
+    "text": "Liderando o Caminho em Engenharia Marítima"
+  },
+  "ServicePreview": {
+    "card1": {
+      "title": "Navegação Avançada",
+      "text": "Tecnologia de ponta para navegação marítima precisa.",
+      "link": "link_para_informacoes_detalhadas_de_navegacao",
+      "cardLink": "Saiba Mais sobre Navegação"
+    },
+    "card2": {
+      "title": "Operações Ecológicas",
+      "text": "Adotando práticas sustentáveis em atividades marítimas.",
+      "link": "link_para_operacoes_ecologicas",
+      "cardLink": "Descubra Nossas Iniciativas Verdes"
+    },
+    "card3": {
+      "title": "Medidas de Segurança",
+      "text": "Priorizando a segurança em todas as nossas operações marítimas.",
+      "link": "link_para_medidas_de_seguranca",
+      "cardLink": "Protocolos e Padrões de Segurança"
+    },
+    "card4": {
+      "title": "Engenharia Personalizada",
+      "text": "Soluções de engenharia sob medida para necessidades especializadas.",
+      "link": "link_para_engenharia_personalizada",
+      "cardLink": "Soluções de Engenharia Personalizadas"
+    },
+    "card5": {
+      "title": "Treinamento Marítimo",
+      "text": "Programas de treinamento abrangentes para profissionais marítimos.",
+      "link": "link_para_treinamento_maritimo",
+      "cardLink": "Explore Programas de Treinamento"
+    }
+  }
+}
